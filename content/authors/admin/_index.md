@@ -17,7 +17,8 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD of AI-System
+# role: PhD of AI-System
+role: PhD of Serverless
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,25 +26,27 @@ organizations:
     url: https://www.ed.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI-System, Distributed Machine Learning and High Performance Computing.
+# bio: My research interests include AI-System, Distributed Machine Learning and High Performance Computing.
+bio: My research interests include Serverless system, Web application deployment.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  # - Artificial Intelligence
   - Computer System
   - Distributed Machine Learning
-  - High Performance Computing
-  - AI for Science
+  - Serverless System
+  # - High Performance Computing
+  # - AI for Science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Serverless System
       institution: University of Edinburgh
       year: 2023
-    - course: MEng in Computer Science
-      institution: University of Science and Technology of China
-      year: 2021
+    # - course: MEng in Computer Science
+    #   institution: University of Science and Technology of China
+    #   year: 2021
     - course: BSc in Computer Science
       institution: University of Science and Technology of China
       year: 2017
