@@ -131,8 +131,8 @@ social:
 highlight_name: true
 ---
 
-I am Yeqi Huang, a PhD student specializing in AI-System at the Edinburgh-AISys Group. My research centers on enhancing system capabilities to support large-scale AI applications, encompassing training and inference processes. Upon achieving scalability to an extensive level, my objective is to leverage AI to address scientific challenges effectively.
+I am Yeqi Huang, a PhD student specializing in Serverless-System at the Edinburgh-AISys Group. My research centers on enhancing system capabilities to support large-scale Web applications, encompassing training and inference processes. Upon achieving scalability to an extensive level, my objective is to leverage Web to address scientific challenges effectively.
 
-This ambitious objective necessitates a methodical approach for its attainment. My prior research has centered on issues within High Performance Computing. Nonetheless, the applications in question have become antiquated, rendering the intricate software incompatible with contemporary accelerators such as GPUs. In an attempt to address this issue, I endeavored to approach it from a more granular perspective by focusing on enhancing the system and compiler infrastructure. My recent research has centered on the latest generation of 2D Mesh Architecutre AI chips such as TPU and Cerebras.
+<!-- This ambitious objective necessitates a methodical approach for its attainment. My prior research has centered on issues within High Performance Computing. Nonetheless, the applications in question have become antiquated, rendering the intricate software incompatible with contemporary accelerators such as GPUs. In an attempt to address this issue, I endeavored to approach it from a more granular perspective by focusing on enhancing the system and compiler infrastructure. My recent research has centered on the latest generation of 2D Mesh Architecutre AI chips such as TPU and Cerebras. -->
 
 {style="text-align: justify;"}
