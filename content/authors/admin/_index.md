@@ -134,10 +134,10 @@ social:
 highlight_name: true
 ---
 
-I am Yeqi Huang, a PhD student specializing in AI-System at the Edinburgh-AISys Group. My research centers on enhancing system capabilities to support large-scale AI applications, encompassing training and inference processes. I love playing with different kinds of AI projects.
+I am Yeqi Huang, a PhD student specializing in AI-System at the Edinburgh-AISys Group. My research centers on enhancing system capabilities to support large-scale AI applications, encompassing training and inference processes. I enjoy engaging with various AI projects. However, AI nowadays are still not strong enough. My objective is to enhance the accessibility of AI for all individuals and to imbue AI with substantial utility in practical industrial applications.
 
-This ambitious objective necessitates a methodical approach for its attainment. My prior research has centered on issues within High Performance Computing. Nonetheless, the applications in question have become antiquated, rendering the intricate software incompatible with contemporary accelerators such as GPUs. In an attempt to address this issue, I endeavored to approach it from a more granular perspective by focusing on enhancing the system and compiler infrastructure. My recent research has centered on the latest generation of 2D Mesh Architecutre AI chips such as TPU and Cerebras.
+This ambitious objective necessitates a methodical approach for its attainment. My prior research has centered on issues within High Performance Computing. So, I know well about the cutting edge problems in real sience and industry. To introduce AI into those field, we need serving larger AI models and we need to improve the performance of AI model's training and inference. In an attempt to address this issue, I endeavored to approach it from a more granular perspective by focusing on enhancing the system and compiler infrastructure. My recent research has centered on the latest generation of 2D Mesh Architecutre AI chips such as TPU and Cerebras.
 
-Meanwhile, I am an open-source developer. I love playing in Hackathons and shring my ideas on Github. And this is my blog: [Personl Blog](https://blog.chivier.site)
+BTW, I am an open-source developer. I love playing in Hackathons and shring my ideas on Github. And this is my blog: [Personl Blog](https://blog.chivier.site)
 
 {style="text-align: justify;"}
