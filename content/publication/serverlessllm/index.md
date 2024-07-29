@@ -17,7 +17,7 @@ publishDate: "2024-02-27T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["OSDI"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -33,9 +33,9 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
+- name: OSDI
   url: https://www.usenix.org/conference/osdi24/presentation/fu
-url_pdf: https://www.usenix.org/conference/osdi24/presentation/fu
+url_pdf: https://www.usenix.org/system/files/osdi24-fu.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
