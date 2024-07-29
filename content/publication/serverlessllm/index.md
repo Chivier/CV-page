@@ -1,5 +1,5 @@
 ---
-title: "ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models"
+title: "(OSDI 2024) ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models"
 authors:
 - Yao Fu
 - Leyang Xue
@@ -34,8 +34,8 @@ featured: false
 
 links:
 - name: Custom Link
-  url: https://arxiv.org/abs/2401.14351
-url_pdf: https://arxiv.org/abs/2401.14351
+  url: https://www.usenix.org/conference/osdi24/presentation/fu
+url_pdf: https://www.usenix.org/conference/osdi24/presentation/fu
 url_code: ''
 url_dataset: ''
 url_poster: ''
