@@ -1,6 +1,6 @@
 ---
 title: Find-A-Tenant
-summary: AI rental agent, helps you find a house based on fuzzy needs. (AI featured is updating, recovering before 8.15, training a new query-to-DB model now ...)
+summary: AI rental agent, helps you find a house based on fuzzy needs. With AI Fuzzy Search Agent, Automatic Metadata Extraction Agent, and more.
 tags:
   - LLM
   - VectorDB
@@ -13,4 +13,5 @@ image:
   caption: Find-A-Tenant
   focal_point: Smart
 ---
+
 ![alt text](image.png)
